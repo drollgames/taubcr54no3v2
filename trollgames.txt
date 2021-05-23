@@ -1,0 +1,8 @@
+* by:
+* code:
+* version:
+===============================================================
+
+Trollgames © 2021
+BLC/TROLLGAMES v2.1
+$(https://source.neutrojogos.ga/) = "0"
