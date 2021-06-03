@@ -8,7 +8,7 @@ IP: "v1.neutrocdn.ga"
 // Variáveis da api:
 var trollgames.IP = {get.adminCdnIP};
 var user_ip = {client.ip};
-var cdn = {v1.neutrojogos.ga};
+var cdn = {cdn1.neutrojogos.ga};
 
 //cookie da cdn:
 const { cdn } = new.cookie();
